@@ -36,11 +36,6 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
-⭐ **Profilimi ziyaret ettiğin için teşekkürler!**  
-
-> “Hayatta en hakiki mürşit ilimdir, fendir.”  
-> — **Mustafa Kemal Atatürk** 🇹🇷
-
 ## 🌍 Sosyal Medya ve Bağlantılarım
 
 <p align="center">
@@ -58,5 +53,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
-⭐ **GitHub profilimi ziyaret ettiğin için teşekkürler!**  
-> “Kod, konuşmaktan daha güçlüdür.” – Linus Torvalds
+⭐ **Profilimi ziyaret ettiğin için teşekkürler!**  
+
+> “Hayatta en hakiki mürşit ilimdir, fendir.”  
+> — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
