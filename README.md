@@ -1,15 +1,16 @@
-# 👋 Merhaba, ben Furares!
+# 👋 Merhaba, ben Furares veya kısaca Sefa!
 
 Ben 18 yaşında teknolojiye, yazılıma ve siber güvenliğe meraklı bir geliştiriciyim.  
-Kod yazmayı, sistemlerle uğraşmayı ve yeni şeyler öğrenmeyi çok seviyorum 🚀  
+16 Yaşından beri kod yazıyor ve sürekli yeni şeyler deneyimleyip öğrenmeye çalışıyorum 🚀
+Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin. 
 
 ---
 
-## 💻 Hakkımda
+## 💻 Becerilerim
 - 🐍 **Orta - İleri seviye Python** geliştiricisiyim.  
 - 💻 **C** dilinde orta seviye bilgiye sahibim.  
 - 🌐 **HTML, PHP** ve **Bash** betikleme konularında deneyimliyim.  
-- 🧠 Siber güvenlik ve etik hacking ile ilgileniyorum (TryHackMe kullanıcısıyım).  
+- 🧠 Siber güvenlik ve etik hacking ile ilgileniyorum.  
 - 🎥 YouTube kanalımda teknoloji ve kodlama üzerine içerikler üretiyorum.  
 
 ---
@@ -17,7 +18,22 @@ Kod yazmayı, sistemlerle uğraşmayı ve yeni şeyler öğrenmeyi çok seviyoru
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,php,bash,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,github,vscode" />
+</p>
+
+---
+
+### 🧰 Siber Güvenlik Araçları ve Platformlar
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-005C84?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FCA121?style=for-the-badge&logo=burpsuite&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-%23121212?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
 </p>
 
 ---
