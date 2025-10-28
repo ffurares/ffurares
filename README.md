@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Furares veya kısaca Sefa!
+# 👋 Merhaba, ben Furares veya kısaca Sefa!<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
 
 Ben 18 yaşında teknolojiye, yazılıma ve siber güvenliğe meraklı bir geliştiriciyim.  
 16 Yaşından beri kod yazıyor ve sürekli yeni şeyler deneyimleyip öğrenmeye çalışıyorum 🚀
@@ -55,7 +55,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ---
 
 ## 🎯 Hedeflerim
-- 🧑‍💻 Güçlü bir portföy oluşturmak  
+- 🔒 Güçlü bir portföy oluşturmak  
 - 🛡️ Siber güvenlik alanında kendimi geliştirmek  
 - 🌍 Açık kaynak projelere katkıda bulunmak   
 
