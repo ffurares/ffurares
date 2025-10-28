@@ -36,6 +36,14 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
+## 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furares&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furares&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
 ## 🌍 Sosyal Medya ve Bağlantılarım
 
 <p align="center">
