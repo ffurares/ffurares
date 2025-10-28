@@ -31,7 +31,6 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-%23121212?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </p>
 
 ---
