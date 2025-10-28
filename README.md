@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Furares veya kısaca Sefa!<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
+# 👋 Merhaba, ben Furares veya kısaca Sefa!
 
 Ben 18 yaşında teknolojiye, yazılıma ve siber güvenliğe meraklı bir geliştiriciyim.  
 16 Yaşından beri kod yazıyor ve sürekli yeni şeyler deneyimleyip öğrenmeye çalışıyorum 🚀
