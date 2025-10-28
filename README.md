@@ -18,34 +18,28 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,github,vscode" />
 </p>
 
 ---
 
-### 🧰 Siber Güvenlik Araçları ve Platformlar
+### 🧰 Deneyimli Olduğum Teknolojiler
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-005C84?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FCA121?style=for-the-badge&logo=burpsuite&logoColor=black" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-%23121212?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=green" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+⭐ **Profilimi ziyaret ettiğin için teşekkürler!**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffurares&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffurares&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
+> “Hayatta en hakiki mürşit ilimdir, fendir.”  
+> — **Mustafa Kemal Atatürk** 🇹🇷
 
 ## 🌍 Sosyal Medya ve Bağlantılarım
 
@@ -60,8 +54,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 🎯 Hedeflerim
 - 🧑‍💻 Güçlü bir portföy oluşturmak  
 - 🛡️ Siber güvenlik alanında kendimi geliştirmek  
-- 🌍 Açık kaynak projelere katkıda bulunmak  
-- 🎓 Yazılım mühendisliği veya siber güvenlik alanında kariyer yapmak  
+- 🌍 Açık kaynak projelere katkıda bulunmak   
 
 ---
 
