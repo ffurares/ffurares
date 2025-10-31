@@ -38,7 +38,6 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ffurares&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffurares&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
