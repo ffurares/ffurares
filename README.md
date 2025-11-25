@@ -39,7 +39,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 <p align="center">
   <a href="https://www.youtube.com/@furares?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ffurares/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sefatptnc/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/furares"><img src="https://img.shields.io/badge/TryHackMe-%23121212.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
 </p>
 
