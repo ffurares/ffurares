@@ -48,6 +48,18 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
+---
+
+## 🚀 Proje
+
+<p align="center">
+  <a href="https://github.com/ffurares/ctf-toolkit" target="_blank">
+    <img src="https://img.shields.io/badge/CTF-Toolkit-ff69b4?style=for-the-badge&logo=github" alt="CTF Toolkit" />
+  </a>
+</p>
+
+---
+
 ⭐ **Profilimi ziyaret ettiğin için teşekkürler!**  
 
 > “Hayatta en hakiki mürşit ilimdir, fendir.”  
