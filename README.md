@@ -28,9 +28,14 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 📊 **GitHub İstatistiklerim**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furares&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furares&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=furares&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furares&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
 ---
 
