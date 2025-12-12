@@ -25,14 +25,11 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
-### 🧰 Deneyimli Olduğum Teknolojiler
+## 📊 **GitHub İstatistiklerim**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-005C84?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FCA121?style=for-the-badge&logo=burpsuite&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furares&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furares&theme=tokyonight" height="160" />
 </p>
 
 ---
