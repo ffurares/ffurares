@@ -54,10 +54,9 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 <p align="center">
   <a href="https://github.com/ffurares/ctf-toolkit" target="_blank">
-    <img src="https://img.shields.io/badge/CTF-Toolkit-FFA500?style=for-the-badge&logo=github" alt="CTF Toolkit" />
+    <img src="https://img.shields.io/badge/CTF-Toolkit-FF0000?style=for-the-badge&logo=github" alt="CTF Toolkit" />
   </a>
 </p>
-
 
 ---
 
