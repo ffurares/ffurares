@@ -17,7 +17,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 💻 Becerilerim
 - 🐍 **Orta - İleri seviye Python** geliştiricisiyim.  
 - 💻 **C** dilinde orta seviye bilgiye sahibim.  
-- 🌐 **HTML, PHP** ve **Bash** betikleme konularında deneyimliyim.  
+- 🌐 **HTML, PHP** ve **Bash** betikleme konularında bilgi sahibiyim.  
 - 🧠 Siber güvenlik ve etik hacking ile ilgileniyorum.  
 - 🎥 YouTube kanalımda teknoloji ve kodlama üzerine içerikler üretiyorum.  
 
