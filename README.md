@@ -1,4 +1,6 @@
-# 👋 Merhaba, ben Furares veya kısaca Sefa!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Merhaba,+ben+Furares+(Sefa)!;Yazılım+ve+Siber+Güvenlik+Meraklısıyım!;Profilime+Hoş+Geldin!" />
+</p>
 
 Ben 18 yaşında teknolojiye, yazılıma ve siber güvenliğe meraklı bir geliştiriciyim.  
 16 Yaşından beri kod yazıyor ve sürekli yeni şeyler deneyimleyip öğrenmeye çalışıyorum.
