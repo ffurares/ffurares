@@ -50,13 +50,14 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 ---
 
-## 🚀 Proje
+## 🚀 Projelerim
 
 <p align="center">
   <a href="https://github.com/ffurares/ctf-toolkit" target="_blank">
-    <img src="https://img.shields.io/badge/CTF-Toolkit-ff69b4?style=for-the-badge&logo=github" alt="CTF Toolkit" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ffurares&repo=ctf-toolkit&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
