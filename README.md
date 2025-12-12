@@ -54,10 +54,9 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 
 <p align="center">
   <a href="https://github.com/ffurares/ctf-toolkit" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ffurares&repo=ctf-toolkit&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ffurares&repo=ctf-toolkit&theme=tokyonight&show_owner=true" />
   </a>
 </p>
-
 
 ---
 
