@@ -26,7 +26,7 @@ Hakkımda daha fazla bilgi için YouTube kanalımı ziyaret edebilirsin.
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,arch,git,github,vscode" />
 </p>
 
 ---
