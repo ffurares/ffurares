@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Merhaba,+ben+Furares+(Sefa)!;Yazılım+ve+Siber+Güvenlik+Meraklısıyım!;Profilime+Hoş+Geldin!" />
 </p>
 
-<img src="https://giphy.com/gifs/mr-robot-showmax-11zb8pY7ziYZig" width="400" />
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxNW00ZWdydHBwZHNkaGZzcHYwcTRvZng0c2FranE1ZGFmMndrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" width="480" />
+</p>
+
 
 
 Ben 18 yaşında teknolojiye, yazılıma ve siber güvenliğe meraklı bir geliştiriciyim.  
