@@ -32,7 +32,7 @@ Linux sistemleri ve ağ programlama temel odak alanlarım. Sadece var olan güve
 
 ## 📌 Felsefem
 
-> *"Hayatta en hakiki mürşit ilimdir."* — **Mustafa Kemal Atatürk** 🇹🇷
+> *"En hakiki mürşit ilimdir, fendir"* — **Mustafa Kemal Atatürk** 🇹🇷
 
 ---
 
@@ -50,10 +50,22 @@ Linux sistemleri ve ağ programlama temel odak alanlarım. Sadece var olan güve
   </a>
 </p>
 
+---
+
+## 🛠️ Sık Kullandığım Araçlar & Teknolojiler
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ffurares&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode,docker" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffurares&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bettercap-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
