@@ -30,12 +30,6 @@ Linux sistemleri ve ağ programlama temel odak alanlarım. Sadece var olan güve
 
 ---
 
-## 📌 Felsefem
-
-> *"En hakiki mürşit ilimdir, fendir"* — **Mustafa Kemal Atatürk** 🇹🇷
-
----
-
 ## 🌐 Bağlantılarım
 
 <p align="center">
@@ -71,3 +65,9 @@ Linux sistemleri ve ağ programlama temel odak alanlarım. Sadece var olan güve
   <img src="https://img.shields.io/badge/Hashcat-0A0A0A?style=for-the-badge&logo=hashcat&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
+
+---
+
+## 📌 Felsefem
+
+> *"En hakiki mürşit ilimdir, fendir"* — **Mustafa Kemal Atatürk** 🇹🇷
