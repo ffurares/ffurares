@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://github.com/ffurares"><img src="https://img.shields.io/badge/TR-1E3A8A?style=for-the-badge" alt="Türkçe (seçili)" /></a>
-  <a href="https://github.com/ffurares/ffurares/blob/main/README.en.md"><img src="https://img.shields.io/badge/EN-161B22?style=for-the-badge" alt="Switch to English" /></a>
+  <a href="https://github.com/ffurares"><img src="assets/badges/tr-1e3a8a.svg" alt="Türkçe (seçili)" /></a>
+  <a href="https://github.com/ffurares/ffurares/blob/main/README.en.md"><img src="assets/badges/en-161b22.svg" alt="Switch to English" /></a>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sefatoptanci.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_sefatoptanci.me-0D1117?style=for-the-badge&labelColor=161B22" alt="Web sitesi: sefatoptanci.me" /></a>
-  <a href="mailto:contact.sefatoptanci@gmail.com"><img src="https://img.shields.io/badge/E--posta-0D1117?style=for-the-badge&logo=gmail&logoColor=6C8EBF&labelColor=161B22" alt="E-posta" /></a>
-  <a href="https://www.youtube.com/@furares?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-@furares-0D1117?style=for-the-badge&logo=youtube&logoColor=6C8EBF&labelColor=161B22" alt="YouTube: @furares" /></a>
-  <a href="https://tryhackme.com/p/furares"><img src="https://img.shields.io/badge/TryHackMe-furares-0D1117?style=for-the-badge&logo=tryhackme&logoColor=6C8EBF&labelColor=161B22" alt="TryHackMe: furares" /></a>
-  <a href="https://www.instagram.com/sefatptnc/"><img src="https://img.shields.io/badge/Instagram-sefatptnc-0D1117?style=for-the-badge&logo=instagram&logoColor=6C8EBF&labelColor=161B22" alt="Instagram: sefatptnc" /></a>
+  <a href="https://sefatoptanci.me"><img src="assets/badges/sefatoptanci-me-0d1117.svg" alt="Web sitesi: sefatoptanci.me" /></a>
+  <a href="mailto:contact.sefatoptanci@gmail.com"><img src="assets/badges/e-posta-0d1117.svg" alt="E-posta" /></a>
+  <a href="https://www.youtube.com/@furares?sub_confirmation=1"><img src="assets/badges/youtube-furares-0d1117.svg" alt="YouTube: @furares" /></a>
+  <a href="https://tryhackme.com/p/furares"><img src="assets/badges/tryhackme-furares-0d1117.svg" alt="TryHackMe: furares" /></a>
+  <a href="https://www.instagram.com/sefatptnc/"><img src="assets/badges/instagram-sefatptnc-0d1117.svg" alt="Instagram: sefatptnc" /></a>
 </p>
 
 ---
@@ -63,27 +63,25 @@ Kendi yolumdan öğrendiğim bir şey var: Bir şeyi gerçekten öğrenmek istiy
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/ffurares/ctf-toolkit"><b>ctf-toolkit</b></a><br/>
-      <img src="https://img.shields.io/github/stars/ffurares/ctf-toolkit?style=flat-square&color=1E3A8A&labelColor=0D1117" alt="ctf-toolkit yıldız sayısı" />
+      <a href="https://github.com/ffurares/ctf-toolkit"><b>ctf-toolkit</b></a>
     </td>
     <td valign="top">
       Kali Linux için menü tabanlı CTF ve pentest otomasyon aracı. Nmap, Gobuster, Hydra, msfvenom ve Metasploit gibi araçları tek arayüzde topluyor; hash kırma/üretme, hazır reverse shell şablonları ve VPN bağlantısı içeriyor. <a href="https://www.youtube.com/watch?v=nd-b_aZUGv4">Video anlatımı →</a>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6C8EBF" alt="Python" />
-      <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=6C8EBF" alt="Bash" />
+      <img src="assets/badges/python-0d1117-flat.svg" alt="Python" />
+      <img src="assets/badges/bash-0d1117-flat.svg" alt="Bash" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/ffurares/offsec-python"><b>offsec-python</b></a><br/>
-      <img src="https://img.shields.io/github/stars/ffurares/offsec-python?style=flat-square&color=1E3A8A&labelColor=0D1117" alt="offsec-python yıldız sayısı" />
+      <a href="https://github.com/ffurares/offsec-python"><b>offsec-python</b></a>
     </td>
     <td valign="top">
       Eğitim ve lab ortamları için yazdığım Python güvenlik scriptleri arşivi: Nmap tabanlı port tarayıcı ve socket tabanlı backdoor örneği.
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6C8EBF" alt="Python" />
+      <img src="assets/badges/python-0d1117-flat.svg" alt="Python" />
     </td>
   </tr>
 </table>
@@ -96,15 +94,15 @@ Kendi yolumdan öğrendiğim bir şey var: Bir şeyi gerçekten öğrenmek istiy
 
 **Keşif & Ağ**
 
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=6C8EBF&labelColor=161B22" alt="Nmap" /> <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=6C8EBF&labelColor=161B22" alt="Wireshark" /> <img src="https://img.shields.io/badge/Bettercap-0D1117?style=for-the-badge&logo=gnubash&logoColor=6C8EBF&labelColor=161B22" alt="Bettercap" /> <img src="https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge&logo=aircrackng&logoColor=6C8EBF&labelColor=161B22" alt="Aircrack-ng" />
+<img src="assets/badges/nmap-0d1117.svg" alt="Nmap" /> <img src="assets/badges/wireshark-0d1117.svg" alt="Wireshark" /> <img src="assets/badges/bettercap-0d1117.svg" alt="Bettercap" /> <img src="assets/badges/aircrack-ng-0d1117.svg" alt="Aircrack-ng" />
 
 **Web Güvenliği**
 
-<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=6C8EBF&labelColor=161B22" alt="Burp Suite" /> <img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logo=gnubash&logoColor=6C8EBF&labelColor=161B22" alt="SQLMap" /> <img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&logo=gnubash&logoColor=6C8EBF&labelColor=161B22" alt="Gobuster" />
+<img src="assets/badges/burp-suite-0d1117.svg" alt="Burp Suite" /> <img src="assets/badges/sqlmap-0d1117.svg" alt="SQLMap" /> <img src="assets/badges/gobuster-0d1117.svg" alt="Gobuster" />
 
 **Sömürü & Parola Analizi**
 
-<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=6C8EBF&labelColor=161B22" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=6C8EBF&labelColor=161B22" alt="Metasploit" /> <img src="https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logo=hashcat&logoColor=6C8EBF&labelColor=161B22" alt="Hashcat" /> <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logo=gnubash&logoColor=6C8EBF&labelColor=161B22" alt="Hydra" />
+<img src="assets/badges/kali-linux-0d1117.svg" alt="Kali Linux" /> <img src="assets/badges/metasploit-0d1117.svg" alt="Metasploit" /> <img src="assets/badges/hashcat-0d1117.svg" alt="Hashcat" /> <img src="assets/badges/hydra-0d1117.svg" alt="Hydra" />
 
 ## İstatistikler
 
